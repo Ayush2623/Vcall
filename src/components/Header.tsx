@@ -80,7 +80,7 @@ import {
             {userName ? (
               <EuiText>
                 <h3>
-                  <EuiTextColor color="white">hello, </EuiTextColor>
+                  <EuiTextColor color="white">Hello, </EuiTextColor>
                   <EuiTextColor color="#0b5cff">{userName}</EuiTextColor>
                 </h3>
               </EuiText>
